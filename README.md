@@ -1,7 +1,7 @@
 # Welcome
 
-### [kkldream's All Repositories](https://github.com/kkldream?tab=repositories)
-### [kkldream's All Gists](https://gist.github.com/kkldream)
+### [kkldream's Repositories](https://github.com/kkldream?tab=repositories)
+### [kkldream's Gists](https://gist.github.com/kkldream)
 
 ## Note：
 
