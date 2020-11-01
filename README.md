@@ -1,7 +1,12 @@
 # Welcome
 
+[![hackmd-github-sync-badge](https://hackmd.io/-J0PznVJTGWDkpaVpycsdQ/badge)](https://hackmd.io/-J0PznVJTGWDkpaVpycsdQ)
+
+## 常用連結：
 ### [kkldream's Repositories](https://github.com/kkldream?tab=repositories)
 ### [kkldream's Gists](https://gist.github.com/kkldream)
+### [HackMD](https://hackmd.io/)
+
 
 ## Note：
 
