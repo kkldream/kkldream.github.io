@@ -5,9 +5,9 @@
 * ### [kkldream's Repositories](https://github.com/kkldream?tab=repositories)
 * ### [kkldream's Gists](https://gist.github.com/kkldream)
 * ### [HackMD](https://hackmd.io/)
-* ### [is.gd](https://is.gd/) (縮網址)
-* ### [ge.tt](http://ge.tt/) (免檔空)
-* ### [imgur](https://imgur.com/) (免圖空)
+* ### [is.gd (縮網址)](https://is.gd/)
+* ### [ge.tt (免檔空)](http://ge.tt/)
+* ### [imgur (免圖空)](https://imgur.com/)
 
 ## Note：
 * ### [Linux](https://github.com/kkldream/Linux)
