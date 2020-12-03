@@ -5,7 +5,7 @@
 * ### [HackMD](https://hackmd.io/)
 * ### [My Repositories](https://github.com/kkldream?tab=repositories)
 * ### [My Gists](https://gist.github.com/kkldream)
-* ### [Create GitHub Resource Download Link](https://minhaskamal.github.io/DownGit/#/home)
+* ### [DownGit](https://minhaskamal.github.io/DownGit/#/home)
 * ### [is.gd (縮網址)](https://is.gd/)
 * ### [imgur (免圖空)](https://imgur.com/)
 * ### [MyAirBridge (免檔空)](https://www.myairbridge.com/en/#!/)
